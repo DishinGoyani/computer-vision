@@ -4,8 +4,7 @@ This project is part of Udacity Computer vision nanodegree. In this project, you
 
 Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition.  
 
-<img src='images/key_pts_example.png' width=50% height=50% />
-<img src='images/landmarks_numbered.jpg' width=30% height=30%/>
+<img src='images/key_pts_example.png' width=50% height=50% /> <img src='images/landmarks_numbered.jpg' width=30% height=30%/>
 
 The project will be broken up into a few main parts in four Python notebooks:  
 
