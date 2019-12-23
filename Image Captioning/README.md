@@ -4,7 +4,7 @@ A neural network architecture to automatically generate captions from images.
 Network is trained on the Microsoft Common Objects in Context ([MS COCO](http://cocodataset.org/#home)) dataset, 
 and tested network on novel images!  
 
-<img src="https://bit.ly/2S8gqsV" height=25% width=60% alt="Deep learning Image Captioning" title="Image Captioning" />
+![Image Captioning](/Image%20Captioning/images/image.png)  
 <sub><sup>image: [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) </sup></sub>
 
 The project is structured as a series of Jupyter notebooks:  
