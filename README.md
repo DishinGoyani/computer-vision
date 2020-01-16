@@ -1,7 +1,7 @@
 # computer-vision
 Computer vision projects.  
 ***
-**Facial Keypoint Detection**  
+### Facial Keypoint Detection  
 - Custom Datasets, DataLoaders and Transforms - Data Loading  
 - Convolutional Neural Networks (CNNs) Architecture  
 - Facial Keypoint Detection Using Haar Cascades and Trained CNN    
