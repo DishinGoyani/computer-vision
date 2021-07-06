@@ -1,5 +1,5 @@
 # computer-vision
-Computer vision projects.  
+Computer vision projects. Part of Udacity Computer Vision Nanodegree.
 ***
 ### Facial Keypoint Detection  
 - Custom Datasets, DataLoaders and Transforms - Data Loading  
